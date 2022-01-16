@@ -25,7 +25,7 @@ This project contains various HTML & CSS projects that everyone must try atleast
 ## Business Website Project ✨ 
 ![Business Website Project ](business-website-project/screenshot.png)
 
-- [Code](https://github.com/codingcheats/html-css-project/business-website-project)
+- [Code](https://github.com/codingcheats/html-css-project/tree/business-website-project)
 - [Demo](https://codingcheats.github.io/html-css-project/business-website-project/index.html)
 
 ## E-Commerce Website Project (Navbar)✨ 
