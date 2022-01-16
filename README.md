@@ -4,7 +4,7 @@
 This project contains various HTML & CSS projects that everyone must try atleast once. This is for anyone and everyone who want to test or improve their frontend development skills. You can try these project if you are a beginner or even if you are an experienced developer. Happy Learning...
 ## Projects😍
 
-- [Desktop Blog Website](https://github.com/codingcheats/html-css-project#blog-website-project-)
+- [Desktop Blog Website](#blog-website-project-)
 - [Amazing Business Website](https://www.instagram.com/codingcheats/)
 - [Cool E-Commerce Website Navbar](https://www.instagram.com/codingcheats/)
 - [Expandable Navbar](https://www.instagram.com/codingcheats/)
