@@ -19,7 +19,7 @@ This project contains various HTML & CSS projects that everyone must try atleast
 ## Blog Website Project ✨ 
 ![Blog Website Project ](blog-website-project/screenshot.png)
 
-- [Code](https://github.com/codingcheats/html-css-project/tree/blog-website-project)
+- [Code](https://github.com/codingcheats/html-css-project/tree/main/blog-website-project)
 - [Demo](https://codingcheats.github.io/html-css-project/blog-website-project/index.html)
 
 ## Business Website Project ✨ 
