@@ -35,7 +35,7 @@ This project contains various HTML & CSS projects that everyone must try atleast
 - [Demo](https://codingcheats.github.io/html-css-project/ecommerce-website-project/index.html)
 
 ## Expanding Navbar Project ✨ 
-![Expanding Navbar Project ](expanding-navbar-project/screenshot.png)
+![Expanding Navbar Project ](expanding-navbar-project/screenshot.gif)
 
 - [Code](https://github.com/codingcheats/html-css-project/tree/main/expanding-navbar-project)
 - [Demo](https://codingcheats.github.io/html-css-project/expanding-navbar-project/index.html)
