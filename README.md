@@ -59,7 +59,7 @@ This project contains various HTML & CSS projects that everyone must try atleast
 - [Demo](https://codingcheats.github.io/html-css-project/profile-showcase-card/index.html)
 
 ## Sidebar Project ✨ 
-![Sidebar Project](sidebar-card/screenshot.png)
+![Sidebar Project](sidebar-project/screenshot.png)
 
 - [Code](https://github.com/codingcheats/html-css-project/tree/main/sidebar-project)
 - [Demo](https://codingcheats.github.io/html-css-project/sidebar-project/index.html)
