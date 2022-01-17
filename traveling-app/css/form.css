@@ -1,0 +1,44 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../images/bg.jpg');
+}
+
+.page-title{
+    font-size: 48px;
+}
+
+input{
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid black;
+    padding: 10px;
+    font-size: 22px;
+    width: 80%;
+    border-radius: 10px;
+    max-width: 500px;
+}
+
+textarea{
+    font-family: 'Poppins', sans-serif;
+    border:  3px solid black;
+    outline: none;
+    padding: 10px;
+    font-size: 22px;
+    width: 80%;
+    height: 200px;
+    border-radius: 10px;
+    max-width: 500px;
+}
+
+button{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 3px solid none;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    font-size: 22px;
+}

@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+body{
+    background-color: white;
+    color: black;
+}
+
+.logo{
+    color: white;
+}
+
+body{
+    background-color: white;
+    color: black;
+}
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    background-color: rgba(221, 9, 62, 0.4);
+    transition: .4s ease-in-out;
+    color: WHITE;
+}
+
+.log{
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+}
+.container{
+    display: flex;
+    background: url('travel.jpg');
+    align-items: center;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.h1{
+   margin-top: 10%;
+   margin-left: 50px;
+   font-family: 'Quicksand', sans-serif;
+   font-size: 3em;
+}
+.container2{
+    border-top: solid;
+    padding: 10px;
+    border-bottom: solid;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.h2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2em;
+    margin: 20px;
+    width: 500px;
+}
+.f{
+    width: 80%;
+    max-width: 320px;
+    min-width: 260px;
+    margin: 10px;
+}
+.container3{
+    display: flex;
+    flex-wrap: wrap;
+    background: url("travel.jpg");
+    border-top: black;
+    height: 30vh;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+button{
+    margin: 40px;
+    padding: 10px;
+    border: solid;
+    background-color: transparent;
+    border-radius: 8px;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200px;
+    margin-left: 30px;
+    align-items: center;
+}
+button:hover{
+    color: white;
+    background-color: orange;
+}
+.services{
+    width: 90%;
+    max-width: 200px;
+}
+
+@media only screen and (max-width: 850px){
+    .h1{
+        font-size: 48px;
+    }
+    .h2{
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width: 730px){
+    .h2{
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .h1{
+        font-size: 2em;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .tranport{
+        width: 90%;
+    }
+}

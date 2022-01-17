@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+    background: rgb(8,35,41);
+    background: linear-gradient(130deg, rgba(8,35,41,1) 0%, rgba(11,37,56,1) 47%, rgba(75,8,96,1) 100%, rgba(255,149,0,1) 100%);
+}
+.stats{
+    margin: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.profile{
+    border-radius: 32px;
+    width: 80%;
+    max-width: 500px;
+    background-color: white;
+}
+.pfp{
+    width: 150px;
+    border-radius: 50%;
+    padding: 4px;
+    border: 2px solid black;
+    background-color: white;
+    transform: translateY(70px);
+}
+.pic{
+    border-radius: 22px;
+    padding: 20px;
+    background-image: url('images/Coding cheats Youtube Banner.png');
+    background-size: cover;
+    background-position-y: -80px;
+    width: 100%;
+}
+b{
+    font-size: 24px;
+}

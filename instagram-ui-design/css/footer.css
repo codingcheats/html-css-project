@@ -1,0 +1,17 @@
+footer{
+    position: absolute;
+    width: calc(100% - 40px);
+    bottom: 0px;
+    display: flex;
+    background-color: white;
+    position: fixed;
+    padding: 20px;
+    justify-content: space-between;
+    border-top: 2px solid black;
+}
+footer *{
+    width: 25px;
+}
+.space{
+    height: 65px;
+}

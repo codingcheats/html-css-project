@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    text-transform: lowercase;
+}
+body{
+    text-align: center;
+    font-family: 'Urbanist', sans-serif;
+    background-color: white;
+}
+nav{
+    padding: 30px 0px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(250, 250, 250);
+    border-bottom: 3px solid rgb(100, 100, 100);
+}
+.logo{
+    color: grey;
+    font-size: 48px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Urbanist', sans-serif;
+    border-radius: 5px;
+    padding: 10px 30px;
+    border: 3px solid;
+    font-size: 19px;
+}
+.non-sel{
+    color: teal;
+    background-color: transparent;
+}
+.sel{
+    background-color: teal;
+    color: white;
+    border-color: teal;
+}
+.non-sel:hover{
+    background-color: teal;
+    color: white;
+    border-color: teal;
+    transition: .3s ease-in-out;
+}
+.sel:hover{
+    color: teal;
+    background-color: transparent;
+    transition: .3s ease-in-out;
+}
+.tagline{
+    font-size: 48px;
+}
+.desc-para{
+    margin: auto;
+    font-size: 28px;
+    width: 50%;
+    margin-top: 10px;
+    color: grey;
+}
+.dis-line{
+    width: 100%;
+    margin-top: 100px;
+    border-bottom: 3px solid rgb(100, 100, 100);
+}
+.body-1-content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 60vh;
+}
+.tab{
+    margin-top: 10vh;
+}
+.alert{
+    background-color: grey;
+    color: white;
+    font-size: 28px;
+    padding: 10px 30px;
+    display: inline-block;
+    border-radius: 10px;
+    position: absolute;
+    transform: translateY(-20px) translateX(50px);
+}
+.plans{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.plan{
+    display: inline-block;
+    padding: 20px;
+    border: 3px solid grey;
+    border-radius: 22px;
+    max-width: 300px;
+}
+.plan-img{
+    background-color: rgb(214, 214, 214);
+    border-radius: 50%;
+    padding: 25px;
+    width: 75px;
+    transform: translateY(-60px);
+}
+.plan-title{
+    color: grey;
+}
+.plan-descr{
+    font-size: 20px;
+    color: grey;
+}
+.price{
+    margin-top: 30px;
+    color: grey;
+}
+.get-started{
+    padding: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    font-size: 24px;
+    margin-top: 20px;
+    color: white;
+    background-color: teal;
+    margin-bottom: 30px;
+    font-family: 'Urbanist', sans-serif;
+    border: 3px solid white;
+}
+.get-started:hover{
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    transition: ease-in-out .3s;
+}

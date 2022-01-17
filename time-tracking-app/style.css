@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body{
+    background-color: rgb(5, 11, 24);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+    overflow-y: hidden;
+}
+.parent{
+    width: 80%;
+    height: 80vh;
+    display: flex;
+}
+.user-info{
+    margin: 10px;
+    width: 20%;
+    background-color: rgb(88, 88, 219);
+    border-radius: 22px;
+    padding: 60px;
+}
+.items{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow-y: auto;
+    height: 100vh;
+}
+.items::-webkit-scrollbar {
+    width: 0px;
+}
+.jeremy{
+    width: 50%;
+    margin-bottom: 30px;
+}
+.name{
+    font-size: 32px;
+}
+.item{
+    margin: 30px;
+    width: 40%;
+    height:40vh;
+    border-radius: 22px;
+    display: flex;
+    align-items: flex-end;
+    background-color: rgb(255, 184, 118);
+}
+.item-content{
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 22px;
+    height: 60%;
+    width: 100%;
+    background-color: rgb(35, 36, 78);
+}
+.top{
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.time{
+    margin-top: 40px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.last-week{
+    padding-left: 10px;
+    margin-top: 20px;
+}

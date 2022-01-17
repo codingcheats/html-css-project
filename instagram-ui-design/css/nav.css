@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.icon{
+    width: 25px;
+    margin: 5px;
+}
+
+.logo{
+    font-size: 36px;
+    user-select: none;
+    font-family: 'Cookie', cursive;
+}

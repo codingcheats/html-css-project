@@ -1,0 +1,49 @@
+.logo{
+    color: white;
+}
+
+body{
+    background-color: white;
+    color: black;
+}
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    background-color: rgba(221, 9, 62, 0.4);
+    transition: .4s ease-in-out;
+    color: WHITE;
+}
+
+.locations{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: left;
+    flex-wrap: wrap;
+}
+
+.location{
+    padding: 20px;
+    border-radius: 22px;
+}
+
+.location-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 22px;
+    box-shadow: 0px 0px 2px 0px;
+    overflow: hidden;
+}
+
+.img-loc{
+    width: 100%;
+    height: 100%;
+}
+
+.loc-name{
+    font-size: 16px;
+    margin: 20px 10px;
+}

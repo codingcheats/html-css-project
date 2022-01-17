@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+input{
+    border: none;
+    padding: 15px;
+    border-bottom: 3px solid;
+    outline: none;
+    font-size: 24px;
+    width: 80%;
+    max-width: 600px;
+    font-family: 'Poppins', sans-serif;
+}
+
+button{
+    background-color: aquamarine;
+    padding: 10px 30px;
+    border-radius: 22px;
+    border: 3px solid black;
+    font-size: 24px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+}
